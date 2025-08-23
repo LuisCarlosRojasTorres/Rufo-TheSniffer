@@ -5,6 +5,10 @@ VisualStudioVersion = 17.13.35919.96 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinApp", "WinApp\WinApp.csproj", "{64D29B8F-6E0A-4E70-8CE4-9B8BE99A0939}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rufo.Diagnostics", "Rufo.Diagnostics\Rufo.Diagnostics.csproj", "{D54A7022-FB2E-4139-BFF2-3665A0968C9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rufo.Network.ETH", "Rufo.Network.ETH\Rufo.Network.ETH.csproj", "{98621A05-76CE-4B0F-ADE5-26102E5154AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{64D29B8F-6E0A-4E70-8CE4-9B8BE99A0939}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64D29B8F-6E0A-4E70-8CE4-9B8BE99A0939}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64D29B8F-6E0A-4E70-8CE4-9B8BE99A0939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D54A7022-FB2E-4139-BFF2-3665A0968C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54A7022-FB2E-4139-BFF2-3665A0968C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54A7022-FB2E-4139-BFF2-3665A0968C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54A7022-FB2E-4139-BFF2-3665A0968C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98621A05-76CE-4B0F-ADE5-26102E5154AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98621A05-76CE-4B0F-ADE5-26102E5154AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98621A05-76CE-4B0F-ADE5-26102E5154AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98621A05-76CE-4B0F-ADE5-26102E5154AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
